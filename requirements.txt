@@ -1,0 +1,19 @@
+To run this program, the following Python packages are required:
+
+- pandas
+- numpy
+- matplotlib
+- scikit-learn
+- scipy
+
+You can include these package names in your requirements.txt file as follows:
+
+```
+pandas
+numpy
+matplotlib
+scikit-learn
+scipy
+```
+
+Make sure you have the correct package versions specified in your requirements file, if necessary.
